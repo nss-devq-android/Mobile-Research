@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../AI-Stuff"
+		}
+	],
+	"settings": {
+		"python-envs.defaultEnvManager": "ms-python.python:venv"
+	}
+}
